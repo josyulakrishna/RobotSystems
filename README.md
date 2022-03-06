@@ -1,4 +1,10 @@
 # RobotSystems
+Assignment for Moving the arm, tracking and placing in the position: 
+
+The solution is placed in MoveNew.py file, please place the file in armpi_fpv/src folder and do 
+`chmod a+x MoveNew.py`  then run using `rosrun armpi_fpv MoveNew.py`
+ 
+
 Assignment for Perception on HiWonderArm: 
 
 For testing, please make sure to place this file armpi_fpv/src/ and copy all the packages from Ai_FPV to src 
